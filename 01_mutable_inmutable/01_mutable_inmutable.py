@@ -19,12 +19,12 @@ print(s)
 
 # Mutable
 mylist=[10,20,30,40,50]
-mylist:list[[0]]= "!"
+#mylist:list[[0]]= "!"
 print(mylist)
 
 mylist=[10,20,30,40,50]
 y=mylist
-mylist[0]='???'
+#mylist[0]='???'
 print(mylist,y)
 
 """
